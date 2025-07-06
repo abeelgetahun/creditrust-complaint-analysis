@@ -1,0 +1,13 @@
+#
+# Ignore data files and outputs
+/data/raw/
+/data/processed/
+/data/filtered_complaints.csv
+/data/input/
+/models/
+/vector_store/
+# Ignore Jupyter notebook checkpoints
+**/.ipynb_checkpoints/
+# Ignore system files
+.DS_Store
+Thumbs.db
